@@ -1,4 +1,4 @@
-**#About the Project:**
+**About the Project:**
 
 Problem : Customer segmentation
 
