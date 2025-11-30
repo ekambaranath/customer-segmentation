@@ -3,7 +3,7 @@
 Problem : Customer segmentation
 - [Data](https://www.kaggle.com/carrie1/ecommerce-data)
 
-Implementation: I have taken inspiration from [Kaggle Dataset](https://www.kaggle.com/carrie1/ecommerce-data), and implemented in Tensorflow 2.0, and have deployed it using Flask application.
+Implementation: I have taken inspiration from [Kaggle Dataset](https://www.kaggle.com/carrie1/ecommerce-data), and implemented in Tensorflow 2.0.
 
 Task :
 
