@@ -1,4 +1,5 @@
-#About the Project:
+**#About the Project:**
+
 Problem : Customer segmentation
 
 - [Data](https://www.kaggle.com/carrie1/ecommerce-data)
